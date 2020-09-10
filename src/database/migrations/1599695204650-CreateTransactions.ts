@@ -20,7 +20,7 @@ export default class CreateTransactions1599695204650
           },
           {
             name: 'value',
-            type: 'number',
+            type: 'numeric',
           },
           {
             name: 'category_id',
